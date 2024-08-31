@@ -295,7 +295,7 @@ body{
         display: flex;
         flex-direction: column;
         height: auto;
-        width: 90%;
+        width: 100%;
         padding: 20px;
     }
 
